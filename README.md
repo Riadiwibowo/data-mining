@@ -1,1 +1,1 @@
-# data-mining
+For visualization and data mining purposes
